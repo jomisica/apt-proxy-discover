@@ -29,7 +29,7 @@ The manual installation of the script can be made as follows:
 
 The installation of .DEB package can be made as follows:
 
- # dpkg -i apt-proxy-discover_0.4.1_all.deb
+ # dpkg -i apt-proxy-discover_0.4.5_all.deb
 
 
 # License

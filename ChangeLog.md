@@ -1,5 +1,9 @@
 # ChangeLog
 
+# 2015-10-19 - 0.4.7
+
+It is now possible to find out the apt-proxy via VPN.
+
 # 2015-7-26 - 0.4.5
 
 Language support has been added. This time was added the Portuguese

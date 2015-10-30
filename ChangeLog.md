@@ -1,5 +1,9 @@
 # ChangeLog
 
+# 2015-10-30 - 0.4.8
+
+Exit script if interface go down
+
 # 2015-10-19 - 0.4.7
 
 It is now possible to find out the apt-proxy via VPN.

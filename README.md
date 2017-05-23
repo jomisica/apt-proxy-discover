@@ -31,8 +31,9 @@ The manual installation of the script can be made as follows:
 
 The installation of .DEB package can be made as follows:
 
+```bash
  # dpkg -i apt-proxy-discover_0.4.5_all.deb
-
+```
 
 # License
 

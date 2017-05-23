@@ -19,6 +19,7 @@ Apt-proxy-discover works only with Debian / Ubuntu and perhaps others using .DEB
 
 The manual installation of the script can be made as follows:
 
+ ```bash
  # cp apt-proxy-discover /etc/network/if-up.d/
 
  # cd /etc/network/if-post-down.d/
@@ -26,6 +27,7 @@ The manual installation of the script can be made as follows:
  # ln -s ../if-up.d/apt-proxy-discover apt-proxy-discover
 
  # chmod 764 apt-proxy-discover
+ ```
 
 The installation of .DEB package can be made as follows:
 
